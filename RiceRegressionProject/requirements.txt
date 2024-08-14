@@ -1,0 +1,6 @@
+pytest
+ucimlrepo
+pandas
+certifi
+matplotlib
+scipy
