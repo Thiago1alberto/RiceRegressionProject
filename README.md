@@ -1,7 +1,4 @@
 # RiceDataScience
-
-
-# Overview
 - RiceDataScience é um projeto de ciência de dados que utiliza uma base de dados de arroz para explorar técnicas de regressão linear, construção de intervalos de confiança utilizando bootstrap, e criação de gráficos personalizados. Este repositório serve como uma introdução prática à análise de dados aplicada em um contexto agrícola, com foco em arroz.
 
 # Conteúdos
